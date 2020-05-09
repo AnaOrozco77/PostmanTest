@@ -1,0 +1,177 @@
+{
+  "collection": {
+    "item": [],
+    "event": [],
+    "variable": [],
+    "info": {
+      "_postman_id": "b1f1ace1-e4e7-4de2-9924-f83831b39a8c",
+      "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+  },
+  "environment": {
+    "_": {
+      "postman_variable_scope": "environment",
+      "postman_exported_at": "2020-05-06T23:17:02.569Z",
+      "postman_exported_using": "Postman/7.23.0"
+    },
+    "id": "78129411-c39e-41bd-b02d-ab47f705c563",
+    "name": "QA",
+    "values": [
+      {
+        "type": "any",
+        "value": "webapi.segundamano.mx",
+        "key": "url_base"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "Account"
+      },
+      {
+        "type": "any",
+        "value": "bWlzc3FhLnNtbXhAZ21haWwuY29tOjU0MzIx",
+        "key": "Autorization"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "encoded"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "email"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "token"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "account_id"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "phone"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "name"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "listing-no"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "Texto"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "uuid"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "token2"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "user"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "ad"
+      },
+      {
+        "type": "any",
+        "value": "",
+        "key": "Mivar"
+      }
+    ]
+  },
+  "globals": {
+    "id": "20ef432a-0ecc-4e83-924d-16ad65aedfa8",
+    "values": []
+  },
+  "run": {
+    "stats": {
+      "iterations": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "items": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "scripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "prerequests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "requests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "tests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "assertions": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "testScripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "prerequestScripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      }
+    },
+    "timings": {
+      "responseAverage": 0,
+      "responseMin": 0,
+      "responseMax": 0,
+      "responseSd": 0,
+      "dnsAverage": 0,
+      "dnsMin": 0,
+      "dnsMax": 0,
+      "dnsSd": 0,
+      "firstByteAverage": 0,
+      "firstByteMin": 0,
+      "firstByteMax": 0,
+      "firstByteSd": 0,
+      "started": 1588902502547,
+      "completed": 1588902502560
+    },
+    "executions": [],
+    "transfers": {
+      "responseTotal": 0
+    },
+    "failures": [],
+    "error": null
+  }
+}
